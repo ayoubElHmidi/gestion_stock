@@ -1,0 +1,25 @@
++ directeur
+  * accet pour tout les page de app ( pour verifier )
+  * crud ( furniseur )
+  * acceptation des commande 
+
++ responsable de stock 
+    * Crud ( commande)
+    * voir le stock desponible pour chaque produit 
+    * ajouter un commande 
+    * Gérer les commandes et les livraisons ( confirmer la reseption des commande / rapport pour la qualité de commande)
+    * Surveiller la qualité des stocks 
+    * Analyse des tendances de vente ()
+    * Optimisation du système de gestion des stocks  
+    * rapport final pour les commandes
+
++ Magasiniers 
+  * Crud ( commande) 
+  * Réception des marchandises
+  * voir le stock desponible pour chaque produit 
+  * Ajout des nouveau produits dans le stock 
+  * Rangement des articles en stock
+  * Préparation des commandes
+  * Suivi des mouvements de stock ( CONSOMATION )
+  * Maintenance de l'entrepôt
+
